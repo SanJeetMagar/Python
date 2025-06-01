@@ -5,6 +5,6 @@ print(marks)
 # To acess item of list
 print(marks[1]) #index
 print(marks[0:3]) 
-print(marks[0:3:2]) #[srart:stop:step]
-print(marks[0:4:2]) 
+print(marks[0:3:2]) #[start:stop:step]
+print(marks[0:4:3]) 
 print(marks[0:5:2]) 
