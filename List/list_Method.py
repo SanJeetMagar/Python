@@ -8,6 +8,8 @@ marks.pop(1) #Pop the last element or  provide index then we can pop that also. 
 print(marks.extend(name)) #Its modified marks by adding name list we can also use + sign to add or also use unpacked method to get same result
 print(marks)
 
+#hi i am coming from github
+
 marks.insert(0, "Sanjeet") #First mention the index where you want to add and at last mention what you want to add
 marks.remove(12) #remove use when we know exact we want to remove it remove the first appereance of the value
 print(marks)
