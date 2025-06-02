@@ -1,5 +1,4 @@
 # #Creating a list of table 
-# a = 2
 tables = []
 for i in range(1,11):
     tables.append(2*i)
